@@ -1,5 +1,5 @@
 # Procedural-Planets
-A plugin for 3ds Max that allows you to generate random planets based on various input parametres
+A plugin for 3ds Max that allows you to generate random planets based in multiple input parameters
 
 Examples
 
